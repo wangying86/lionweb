@@ -1,0 +1,1031 @@
+{
+    "StatusCode": 200,
+    "StatusMsg": "获取成功",
+    "Result": [
+    {
+        "CourseID": "354",
+        "Zhang": "Here We Go 教学视频",
+        "JieAndFile": [
+        {
+            "StructID": "1608",
+            "StructName": "GreetingSong"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2607",
+            "CoursewareName": "GreetingSong",
+            "CoursewareUrl": "20181204152545071011588.mp4",
+            "CoursewarePicUrl": "20181204152545071011588.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2387",
+            "StructName": "1、What Do You Want to Be"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2608",
+            "CoursewareName": "1、What Do You Want to Be",
+            "CoursewareUrl": "20181204152625133515514.mp4",
+            "CoursewarePicUrl": "20181204152625133515514.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2388",
+            "StructName": "2、Let's Play!"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2609",
+            "CoursewareName": "2、Let's Play!",
+            "CoursewareUrl": "201812041527585554159.mp4",
+            "CoursewarePicUrl": "201812041527585554159.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2389",
+            "StructName": "3、Whose Is This？"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2610",
+            "CoursewareName": "3、Whose Is This？",
+            "CoursewareUrl": "20181204152828039805719.mp4",
+            "CoursewarePicUrl": "20181204152828039805719.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2390",
+            "StructName": "4、Sickness"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2611",
+            "CoursewareName": "4、Sickness",
+            "CoursewareUrl": "2018120415291980534466.mp4",
+            "CoursewarePicUrl": "2018120415291980534466.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2391",
+            "StructName": "5、Keep Tidy"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2612",
+            "CoursewareName": "5、Keep Tidy",
+            "CoursewareUrl": "2018120415293991477739.mp4",
+            "CoursewarePicUrl": "2018120415293991477739.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2392",
+            "StructName": "6、Let's Go Home"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2613",
+            "CoursewareName": "6、Let's Go Home",
+            "CoursewareUrl": "20181204153004852289759.mp4",
+            "CoursewarePicUrl": "20181204153004852289759.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2393",
+            "StructName": "7、Friendship"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2614",
+            "CoursewareName": "7、Friendship",
+            "CoursewareUrl": "20181204153037289742191.mp4",
+            "CoursewarePicUrl": "20181204153037289742191.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2394",
+            "StructName": "8、Review"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2615",
+            "CoursewareName": "8、Review",
+            "CoursewareUrl": "20181204153052024171606.mp4",
+            "CoursewarePicUrl": "20181204153052024171606.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "CourseID": "354",
+        "Zhang": "Here We Go 教学CD第一部分",
+        "JieAndFile": [
+        {
+            "StructID": "2396",
+            "StructName": "01 Who is Who"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2616",
+            "CoursewareName": "01 Who is Who",
+            "CoursewareUrl": "20181204153108914767892.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2399",
+            "StructName": "02 Greeting Song"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2617",
+            "CoursewareName": "02 Greeting Song",
+            "CoursewareUrl": "20181204153149227305901.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2400",
+            "StructName": "03 Unit 1 Story"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2618",
+            "CoursewareName": "03 Unit 1 Story",
+            "CoursewareUrl": "20181204153152305359926.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2401",
+            "StructName": "04 Unit 1 Chant"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2619",
+            "CoursewareName": "04 Unit 1 Chant",
+            "CoursewareUrl": "20181204153155617941721.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2402",
+            "StructName": "05 Unit 1 Magic Talk"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2620",
+            "CoursewareName": "05 Unit 1 Magic Talk",
+            "CoursewareUrl": "20181204153158133492143.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2403",
+            "StructName": "06 Unit 1 Song"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2621",
+            "CoursewareName": "06 Unit 1 Song",
+            "CoursewareUrl": "20181204153201352285308.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2404",
+            "StructName": "07 Unit 1 ABCs"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2622",
+            "CoursewareName": "07 Unit 1 ABCs",
+            "CoursewareUrl": "2018120415320388347889.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2405",
+            "StructName": "08 Unit 2 Story"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2623",
+            "CoursewareName": "08 Unit 2 Story",
+            "CoursewareUrl": "20181204153206930356396.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2406",
+            "StructName": "09 Unit 2 Chant"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2624",
+            "CoursewareName": "09 Unit 2 Chant",
+            "CoursewareUrl": "20181204153210321024941.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2407",
+            "StructName": "10 Unit 2 Magic talk"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2625",
+            "CoursewareName": "10 Unit 2 Magic talk",
+            "CoursewareUrl": "20181204153213664775931.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2408",
+            "StructName": "11 Unit 2 Song"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2626",
+            "CoursewareName": "11 Unit 2 Song",
+            "CoursewareUrl": "2018120415321741479326.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2409",
+            "StructName": "12 Unit 2 ABCs"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2627",
+            "CoursewareName": "12 Unit 2 ABCs",
+            "CoursewareUrl": "20181204153227945985687.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2410",
+            "StructName": "13 Unit 3 Story"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2628",
+            "CoursewareName": "13 Unit 3 Story",
+            "CoursewareUrl": "20181204153231586636837.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2411",
+            "StructName": "14 Unit 3 Chant"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2629",
+            "CoursewareName": "14 Unit 3 Chant",
+            "CoursewareUrl": "20181204153234914781469.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2412",
+            "StructName": "15 Unit 3 Magic Talk"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2630",
+            "CoursewareName": "15 Unit 3 Magic Talk",
+            "CoursewareUrl": "20181204153238649171205.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2413",
+            "StructName": "16 Unit 3 Song"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2631",
+            "CoursewareName": "16 Unit 3 Song",
+            "CoursewareUrl": "20181204153241649156481.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2414",
+            "StructName": "17 Unit 3 ABCs"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2632",
+            "CoursewareName": "17 Unit 3 ABCs",
+            "CoursewareUrl": "20181204153244289796206.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2415",
+            "StructName": "18 Unit 4 Story"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2633",
+            "CoursewareName": "18 Unit 4 Story",
+            "CoursewareUrl": "20181204153248305439744.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2416",
+            "StructName": "19 Unit 4 Chant"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2634",
+            "CoursewareName": "19 Unit 4 Chant",
+            "CoursewareUrl": "20181204153251617917539.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2417",
+            "StructName": "20 Unit 4 Magic Talk"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2635",
+            "CoursewareName": "20 Unit 4 Magic Talk",
+            "CoursewareUrl": "20181204153255820991292.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2418",
+            "StructName": "21 Unit 4 Song"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2636",
+            "CoursewareName": "21 Unit 4 Song",
+            "CoursewareUrl": "20181204153258945973872.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2419",
+            "StructName": "22 Unit 4 ABCs"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2637",
+            "CoursewareName": "22 Unit 4 ABCs",
+            "CoursewareUrl": "20181204153301992908701.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2420",
+            "StructName": "23 Unit 1 Story （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2638",
+            "CoursewareName": "23 Unit 1 Story （English）",
+            "CoursewareUrl": "20181204153305805386187.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2421",
+            "StructName": "24 Unit 1 Magic Talk （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2639",
+            "CoursewareName": "24 Unit 1 Magic Talk （English）",
+            "CoursewareUrl": "20181204153308774126268.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2422",
+            "StructName": "25 Unit 1 ABCs （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2640",
+            "CoursewareName": "25 Unit 1 ABCs （English）",
+            "CoursewareUrl": "20181204153313055415770.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2423",
+            "StructName": "26 Unit 2 Story （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2641",
+            "CoursewareName": "26 Unit 2 Story （English）",
+            "CoursewareUrl": "20181204153316633609531.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2424",
+            "StructName": "27 Unit 2 Magic Talk （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2642",
+            "CoursewareName": "27 Unit 2 Magic Talk （English）",
+            "CoursewareUrl": "20181204153320524126765.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2425",
+            "StructName": "28 Unit 2 ABCs （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2643",
+            "CoursewareName": "28 Unit 2 ABCs （English）",
+            "CoursewareUrl": "20181204153332946006332.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2426",
+            "StructName": "29 Unit 3 Story （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2644",
+            "CoursewareName": "29 Unit 3 Story （English）",
+            "CoursewareUrl": "20181204153337164728445.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2427",
+            "StructName": "30 Unit 3 Magic Talk （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2645",
+            "CoursewareName": "30 Unit 3 Magic Talk （English）",
+            "CoursewareUrl": "20181204153340836665790.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2428",
+            "StructName": "31 Unit 3 ABCs （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2646",
+            "CoursewareName": "31 Unit 3 ABCs （English）",
+            "CoursewareUrl": "20181204153343867849262.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2429",
+            "StructName": "32 Unit 4 Story （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2647",
+            "CoursewareName": "32 Unit 4 Story （English）",
+            "CoursewareUrl": "20181204153346789794788.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2430",
+            "StructName": "33 Unit 4 Magic Talk （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2648",
+            "CoursewareName": "33 Unit 4 Magic Talk （English）",
+            "CoursewareUrl": "20181204153349664818761.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2431",
+            "StructName": "34 Unit 4 ABCs （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2649",
+            "CoursewareName": "34 Unit 4 ABCs （English）",
+            "CoursewareUrl": "20181204153352649135678.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122039664769792.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "CourseID": "354",
+        "Zhang": "Here We Go 教学CD第二部分",
+        "JieAndFile": [
+        {
+            "StructID": "2398",
+            "StructName": "01 Unit 5 Story"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2650",
+            "CoursewareName": "01 Unit 5 Story",
+            "CoursewareUrl": "20181204153404727294531.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2432",
+            "StructName": "02 Unit 5 Chant"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2651",
+            "CoursewareName": "02 Unit 5 Chant",
+            "CoursewareUrl": "20181204153408289845933.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2433",
+            "StructName": "03 Unit 5 Magic Talk"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2652",
+            "CoursewareName": "03 Unit 5 Magic Talk",
+            "CoursewareUrl": "20181204153411492861261.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2434",
+            "StructName": "04 Unit 5 Song"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2653",
+            "CoursewareName": "04 Unit 5 Song",
+            "CoursewareUrl": "20181204153413992862324.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2435",
+            "StructName": "05 Unit 5 ABCs"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2654",
+            "CoursewareName": "05 Unit 5 ABCs",
+            "CoursewareUrl": "20181204153416836716102.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2436",
+            "StructName": "06 Unit 6 Story"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2655",
+            "CoursewareName": "06 Unit 6 Story",
+            "CoursewareUrl": "20181204153420352305427.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2437",
+            "StructName": "07 Unit 6 Chant"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2656",
+            "CoursewareName": "07 Unit 6 Chant",
+            "CoursewareUrl": "20181204153423586646473.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2438",
+            "StructName": "08 Unit 6 Magic Talk"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2657",
+            "CoursewareName": "08 Unit 6 Magic Talk",
+            "CoursewareUrl": "20181204153426742920247.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2439",
+            "StructName": "09 Unit 6 Song"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2658",
+            "CoursewareName": "09 Unit 6 Song",
+            "CoursewareUrl": "20181204153429821011272.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2440",
+            "StructName": "10 Unit 6 ABCs"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2659",
+            "CoursewareName": "10 Unit 6 ABCs",
+            "CoursewareUrl": "20181204153433149181903.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2441",
+            "StructName": "11 Unit 7 Story"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2660",
+            "CoursewareName": "11 Unit 7 Story",
+            "CoursewareUrl": "20181204153436352262232.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2442",
+            "StructName": "12 Unit 7 Chant"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2661",
+            "CoursewareName": "12 Unit 7 Chant",
+            "CoursewareUrl": "20181204153439883498438.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2443",
+            "StructName": "13 Unit 7 Magic Talk"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2662",
+            "CoursewareName": "13 Unit 7 Magic Talk",
+            "CoursewareUrl": "20181204153445289783669.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2444",
+            "StructName": "14 Unit 7 Song"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2663",
+            "CoursewareName": "14 Unit 7 Song",
+            "CoursewareUrl": "20181204153449524143618.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2445",
+            "StructName": "15 Unit 7 ABCs"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2664",
+            "CoursewareName": "15 Unit 7 ABCs",
+            "CoursewareUrl": "20181204153453180392605.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2446",
+            "StructName": "16 Review I Can Read and Say"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2665",
+            "CoursewareName": "16 Review I Can Read and Say",
+            "CoursewareUrl": "20181204153509914811393.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2447",
+            "StructName": "17 Review Song"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2666",
+            "CoursewareName": "17 Review Song",
+            "CoursewareUrl": "20181204153513867960540.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2448",
+            "StructName": "18 Review ABCs"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2667",
+            "CoursewareName": "18 Review ABCs",
+            "CoursewareUrl": "20181204153516555440297.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2449",
+            "StructName": "19 Unit 5 Story （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2668",
+            "CoursewareName": "19 Unit 5 Story （English）",
+            "CoursewareUrl": "20181204153519102339914.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2450",
+            "StructName": "20 Unit 5 Magic Talk （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2669",
+            "CoursewareName": "20 Unit 5 Magic Talk （English）",
+            "CoursewareUrl": "20181204153523070997420.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2451",
+            "StructName": "21 Unit 5 ABCs （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2670",
+            "CoursewareName": "21 Unit 5 ABCs （English）",
+            "CoursewareUrl": "20181204153525852231285.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2452",
+            "StructName": "22 Unit 6 Story （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2671",
+            "CoursewareName": "22 Unit 6 Story （English）",
+            "CoursewareUrl": "20181204153528649150508.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2453",
+            "StructName": "23 Unit 6 Magic Talk （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2672",
+            "CoursewareName": "23 Unit 6 Magic Talk （English）",
+            "CoursewareUrl": "2018120415353543039174.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2454",
+            "StructName": "24 Unit 6 ABCs （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2673",
+            "CoursewareName": "24 Unit 6 ABCs （English）",
+            "CoursewareUrl": "20181204153539149233974.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2455",
+            "StructName": "25 Unit 7 Story （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2674",
+            "CoursewareName": "25 Unit 7 Story （English）",
+            "CoursewareUrl": "20181204153542789803125.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2456",
+            "StructName": "26 Unit 7 Magic Talk （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2675",
+            "CoursewareName": "26 Unit 7 Magic Talk （English）",
+            "CoursewareUrl": "20181204153545758497205.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2457",
+            "StructName": "27 Unit 7 ABCs （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2676",
+            "CoursewareName": "27 Unit 7 ABCs （English）",
+            "CoursewareUrl": "2018120415354864913215.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2458",
+            "StructName": "28 Unit 8 Story （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2677",
+            "CoursewareName": "28 Unit 8 Story （English）",
+            "CoursewareUrl": "20181204153600805422617.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2459",
+            "StructName": "29 Unit 8 ABCs （English）"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2678",
+            "CoursewareName": "29 Unit 8 ABCs （English）",
+            "CoursewareUrl": "20181204153604149176607.mp3",
+            "CoursewarePicUrl": "_0011_hwg620181220122055445989398.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "courseTest": false
+    }]
+}

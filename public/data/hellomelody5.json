@@ -1,0 +1,569 @@
+{
+    "StatusCode": 200,
+    "StatusMsg": "获取成功",
+    "Result": [
+    {
+        "CourseID": "328",
+        "Zhang": "Hello Melody 教学视频",
+        "JieAndFile": [
+        {
+            "StructID": "1511",
+            "StructName": "Alphabet Rhyme"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2766",
+            "CoursewareName": "Alphabet Rhyme",
+            "CoursewareUrl": "20181204154651289761447.mp4",
+            "CoursewarePicUrl": "20181204154651289761447.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1512",
+            "StructName": "Lesson 1 Sports"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2767",
+            "CoursewareName": "Lesson 1 Sports",
+            "CoursewareUrl": "20181204154656727273874.mp4",
+            "CoursewarePicUrl": "20181204154656727273874.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1513",
+            "StructName": "Lesson 2 Feelings"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2768",
+            "CoursewareName": "Lesson 2 Feelings",
+            "CoursewareUrl": "20181204154701696026805.mp4",
+            "CoursewarePicUrl": "20181204154701696026805.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1514",
+            "StructName": "Lesson 3 At the Airport"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2769",
+            "CoursewareName": "Lesson 3 At the Airport",
+            "CoursewareUrl": "20181204154706836603594.mp4",
+            "CoursewarePicUrl": "20181204154706836603594.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1515",
+            "StructName": "Lesson 4 Breakfast Time"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2770",
+            "CoursewareName": "Lesson 4 Breakfast Time",
+            "CoursewareUrl": "20181204154711321023149.mp4",
+            "CoursewarePicUrl": "20181204154711321023149.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1516",
+            "StructName": "Lesson 5 Watching TV"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2771",
+            "CoursewareName": "Lesson 5 Watching TV",
+            "CoursewareUrl": "20181204154716633570794.mp4",
+            "CoursewarePicUrl": "20181204154716633570794.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1517",
+            "StructName": "Lesson 6 Clean the Classroom"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2772",
+            "CoursewareName": "Lesson 6 Clean the Classroom",
+            "CoursewareUrl": "20181204154721414746510.mp4",
+            "CoursewarePicUrl": "20181204154721414746510.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1518",
+            "StructName": "Lesson 7 On the Road"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2773",
+            "CoursewareName": "Lesson 7 On the Road",
+            "CoursewareUrl": "20181204154725867930870.mp4",
+            "CoursewarePicUrl": "20181204154725867930870.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1519",
+            "StructName": "Lesson 8 At the Zoo"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2774",
+            "CoursewareName": "Lesson 8 At the Zoo",
+            "CoursewareUrl": "20181204154730961624104.mp4",
+            "CoursewarePicUrl": "20181204154730961624104.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1520",
+            "StructName": "Lesson 9 In the Desert"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2775",
+            "CoursewareName": "Lesson 9 In the Desert",
+            "CoursewareUrl": "20181204154743524174811.mp4",
+            "CoursewarePicUrl": "20181204154743524174811.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1521",
+            "StructName": "Lesson 10 At the Hospital"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2776",
+            "CoursewareName": "Lesson 10 At the Hospital",
+            "CoursewareUrl": "20181204154748508498101.mp4",
+            "CoursewarePicUrl": "20181204154748508498101.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "CourseID": "328",
+        "Zhang": "Hello Melody 情景故事CD",
+        "JieAndFile": [
+        {
+            "StructID": "1677",
+            "StructName": "BOOK5"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3839",
+            "CoursewareName": "BOOK5",
+            "CoursewareUrl": "BOOK520190228014034252737483.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1680",
+            "StructName": "Alphabet Rhyme"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3840",
+            "CoursewareName": "Alphabet Rhyme",
+            "CoursewareUrl": "AlphabetRhyme20190228014037205891205.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1681",
+            "StructName": "Lesson 1 Sports"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3841",
+            "CoursewareName": "Lesson 1 Sports",
+            "CoursewareUrl": "Lesson1Sports20190228014042784044293.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1682",
+            "StructName": "Lesson 1 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3842",
+            "CoursewareName": "Lesson 1 Conversation",
+            "CoursewareUrl": "Lesson1Conversation20190228014045862207318.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1683",
+            "StructName": "Lesson 2 Feelings"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3843",
+            "CoursewareName": "Lesson 2 Feelings",
+            "CoursewareUrl": "Lesson2Feelings20190228014050909124999.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1684",
+            "StructName": "Lesson 2 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3844",
+            "CoursewareName": "Lesson 2 Conversation",
+            "CoursewareUrl": "Lesson2Conversation20190228014053487240811.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1685",
+            "StructName": "Lesson 3 At the Airport"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3845",
+            "CoursewareName": "Lesson 3 At the Airport",
+            "CoursewareUrl": "Lesson3AttheAirport2019022801405811234328.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1686",
+            "StructName": "Lesson 3 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3846",
+            "CoursewareName": "Lesson 3 Conversation",
+            "CoursewareUrl": "Lesson3Conversation20190228014101346665552.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1687",
+            "StructName": "Lesson 4 Breakfast Time"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3847",
+            "CoursewareName": "Lesson 4 Breakfast Time",
+            "CoursewareUrl": "Lesson4BreakfastTime20190228014104893573595.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1688",
+            "StructName": "Lesson 4 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3848",
+            "CoursewareName": "Lesson 4 Conversation",
+            "CoursewareUrl": "Lesson4Conversation20190228014107377952821.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1925",
+            "StructName": "Lesson 5 Watching TV"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3849",
+            "CoursewareName": "Lesson 5 Watching TV",
+            "CoursewareUrl": "Lesson5WatchingTV20190228014112284252840.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1926",
+            "StructName": "Lesson 5 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3850",
+            "CoursewareName": "Lesson 5 Conversation",
+            "CoursewareUrl": "Lesson5Conversation20190228014114956140760.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1927",
+            "StructName": "Lesson 6 Clean the Classroom"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3851",
+            "CoursewareName": "Lesson 6 Clean the Classroom",
+            "CoursewareUrl": "Lesson6CleantheClassroom20190228014118690524497.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1928",
+            "StructName": "Lesson 6 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3852",
+            "CoursewareName": "Lesson 6 Conversation",
+            "CoursewareUrl": "Lesson6Conversation20190228014122315544288.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1929",
+            "StructName": "Lesson 7 On the Road"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3853",
+            "CoursewareName": "Lesson 7 On the Road",
+            "CoursewareUrl": "Lesson7OntheRoad20190228014129706228534.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1930",
+            "StructName": "Lesson 7 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3854",
+            "CoursewareName": "Lesson 7 Conversation",
+            "CoursewareUrl": "Lesson7Conversation20190228014133643770322.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1931",
+            "StructName": "Lesson 8 At the Zoo"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3855",
+            "CoursewareName": "Lesson 8 At the Zoo",
+            "CoursewareUrl": "Lesson8AttheZoo20190228014140237567195.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1932",
+            "StructName": "Lesson 8 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3856",
+            "CoursewareName": "Lesson 8 Conversation",
+            "CoursewareUrl": "Lesson8Conversation20190228014148206369402.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1933",
+            "StructName": "Lesson 9 In the Desert"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3857",
+            "CoursewareName": "Lesson 9 In the Desert",
+            "CoursewareUrl": "Lesson9IntheDesert20190228014159581435990.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1934",
+            "StructName": "Lesson 9 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3858",
+            "CoursewareName": "Lesson 9 Conversation",
+            "CoursewareUrl": "Lesson9Conversation20190228014205706454845.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1935",
+            "StructName": "Lesson 10 At the Hospital"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3859",
+            "CoursewareName": "Lesson 10 At the Hospital",
+            "CoursewareUrl": "Lesson10AttheHospital20190228014212956522429.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1936",
+            "StructName": "Lesson 10 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3860",
+            "CoursewareName": "Lesson 10 Conversation",
+            "CoursewareUrl": "Lesson10Conversation20190228014216800276109.mp3",
+            "CoursewarePicUrl": "_0006_HM520181220022853633516619.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "CourseID": "328",
+        "Zhang": "My first reader 小读者CD",
+        "JieAndFile": [
+        {
+            "StructID": "1679",
+            "StructName": "1、Let's Play Baseball"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3861",
+            "CoursewareName": "1、Let's Play Baseball",
+            "CoursewareUrl": "1、Let'sPlayBaseball20190228014239706694306.mp3",
+            "CoursewarePicUrl": "_0032_HM-小读者-0520181220022905164732533.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1689",
+            "StructName": "2、Why？"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3862",
+            "CoursewareName": "2、Why？",
+            "CoursewareUrl": "2、Why？20190228014243394222488.mp3",
+            "CoursewarePicUrl": "_0032_HM-小读者-0520181220022905164732533.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1690",
+            "StructName": "3、In and out, the dusky blue bells"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3863",
+            "CoursewareName": "3、In and out, the dusky blue bells",
+            "CoursewareUrl": "3、Inandout,theduskybluebells20190228014247488006297.mp3",
+            "CoursewarePicUrl": "_0032_HM-小读者-0520181220022905164732533.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1691",
+            "StructName": "4、Lazy Mary"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3864",
+            "CoursewareName": "4、Lazy Mary",
+            "CoursewareUrl": "4、LazyMary20190228014250456776378.mp3",
+            "CoursewarePicUrl": "_0032_HM-小读者-0520181220022905164732533.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1692",
+            "StructName": "5、I went to school one morning"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3865",
+            "CoursewareName": "5、I went to school one morning",
+            "CoursewareUrl": "5、Iwenttoschoolonemorning20190228014253769281651.mp3",
+            "CoursewarePicUrl": "_0032_HM-小读者-0520181220022905164732533.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1693",
+            "StructName": "6、Shoo fly"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3866",
+            "CoursewareName": "6、Shoo fly",
+            "CoursewareUrl": "6、Shoofly20190228014256644302623.mp3",
+            "CoursewarePicUrl": "_0032_HM-小读者-0520181220022905164732533.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "courseTest": false
+    }]
+}

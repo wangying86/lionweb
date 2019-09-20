@@ -1,0 +1,555 @@
+{
+    "StatusCode": 200,
+    "StatusMsg": "获取成功",
+    "Result": [
+    {
+        "CourseID": "341",
+        "Zhang": "Hello Melody 教学视频",
+        "JieAndFile": [
+        {
+            "StructID": "1562",
+            "StructName": "Alphabet Rhyme"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2844",
+            "CoursewareName": "Alphabet Rhyme",
+            "CoursewareUrl": "20181204155524164762330.mp4",
+            "CoursewarePicUrl": "20181204155524164762330.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1563",
+            "StructName": "Lesson 1 Happy Birthday"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2845",
+            "CoursewareName": "Lesson 1 Happy Birthday",
+            "CoursewareUrl": "20181204155529836604527.mp4",
+            "CoursewarePicUrl": "20181204155529836604527.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1564",
+            "StructName": "Lesson 2 In My Class"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2846",
+            "CoursewareName": "Lesson 2 In My Class",
+            "CoursewareUrl": "20181204155535461601169.mp4",
+            "CoursewarePicUrl": "20181204155535461601169.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1565",
+            "StructName": "Lesson 3 On the Playground"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2847",
+            "CoursewareName": "Lesson 3 On the Playground",
+            "CoursewareUrl": "20181204155545961640635.mp4",
+            "CoursewarePicUrl": "20181204155545961640635.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1566",
+            "StructName": "Lesson 4 My Good Friends"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2848",
+            "CoursewareName": "Lesson 4 My Good Friends",
+            "CoursewareUrl": "20181204155550946017403.mp4",
+            "CoursewarePicUrl": "20181204155550946017403.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1567",
+            "StructName": "Lesson 5 Vegetable"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2849",
+            "CoursewareName": "Lesson 5 Vegetable",
+            "CoursewareUrl": "20181204155555712338282.mp4",
+            "CoursewarePicUrl": "20181204155555712338282.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1568",
+            "StructName": "Lesson 6 Clothes"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2850",
+            "CoursewareName": "Lesson 6 Clothes",
+            "CoursewareUrl": "2018120415560952417320.mp4",
+            "CoursewarePicUrl": "2018120415560952417320.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1569",
+            "StructName": "Lesson 7 Toy Kingdom"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2851",
+            "CoursewareName": "Lesson 7 Toy Kingdom",
+            "CoursewareUrl": "20181204155615227327412.mp4",
+            "CoursewarePicUrl": "20181204155615227327412.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1570",
+            "StructName": "Lesson 8 People Who Help Us"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2852",
+            "CoursewareName": "Lesson 8 People Who Help Us",
+            "CoursewareUrl": "20181204155619571016827.mp4",
+            "CoursewarePicUrl": "20181204155619571016827.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1571",
+            "StructName": "Lesson 9 Clean My Body"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2853",
+            "CoursewareName": "Lesson 9 Clean My Body",
+            "CoursewareUrl": "20181204155623914766243.mp4",
+            "CoursewarePicUrl": "20181204155623914766243.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1572",
+            "StructName": "Lesson 10 Furniture"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2854",
+            "CoursewareName": "Lesson 10 Furniture",
+            "CoursewareUrl": "20181204155627946061139.mp4",
+            "CoursewarePicUrl": "20181204155627946061139.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "CourseID": "341",
+        "Zhang": "Hello Melody 情景故事CD",
+        "JieAndFile": [
+        {
+            "StructID": "1977",
+            "StructName": "BOOK4"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3715",
+            "CoursewareName": "BOOK4",
+            "CoursewareUrl": "BOOK420190228010642465800133.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1980",
+            "StructName": "Lesson 1 Happy Birthday"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3716",
+            "CoursewareName": "Lesson 1 Happy Birthday",
+            "CoursewareUrl": "Lesson1HappyBirthday20190228010654012701578.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1981",
+            "StructName": "Lesson 1 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3717",
+            "CoursewareName": "Lesson 1 Conversation",
+            "CoursewareUrl": "Lesson1Conversation2019022801065751267167.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1982",
+            "StructName": "Lesson 2 In My Class"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3718",
+            "CoursewareName": "Lesson 2 In My Class",
+            "CoursewareUrl": "Lesson2InMyClass20190228010701262702162.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1983",
+            "StructName": "Lesson 2 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3719",
+            "CoursewareName": "Lesson 2 Conversation",
+            "CoursewareUrl": "Lesson2Conversation20190228010704434547295.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1984",
+            "StructName": "Lesson 3 On the Playground"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3720",
+            "CoursewareName": "Lesson 3 On the Playground",
+            "CoursewareUrl": "Lesson3OnthePlayground20190228010708387695442.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1985",
+            "StructName": "Lesson 3 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3721",
+            "CoursewareName": "Lesson 3 Conversation",
+            "CoursewareUrl": "Lesson3Conversation20190228010711559560575.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1986",
+            "StructName": "Lesson 4 My Good Friends"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3722",
+            "CoursewareName": "Lesson 4 My Good Friends",
+            "CoursewareUrl": "Lesson4MyGoodFriends20190228010716278316900.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1987",
+            "StructName": "Lesson 4 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3723",
+            "CoursewareName": "Lesson 4 Conversation",
+            "CoursewareUrl": "Lesson4Conversation20190228010719215842263.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1988",
+            "StructName": "Lesson 5 Vegetable"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3724",
+            "CoursewareName": "Lesson 5 Vegetable",
+            "CoursewareUrl": "Lesson5Vegetable20190228010723075159825.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1989",
+            "StructName": "Lesson 5 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3725",
+            "CoursewareName": "Lesson 5 Conversation",
+            "CoursewareUrl": "Lesson5Conversation20190228010727184603471.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1990",
+            "StructName": "Lesson 6 Clothes"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3726",
+            "CoursewareName": "Lesson 6 Clothes",
+            "CoursewareUrl": "Lesson6Clothes20190228010732668918451.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1991",
+            "StructName": "Lesson 6 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3727",
+            "CoursewareName": "Lesson 6 Conversation",
+            "CoursewareUrl": "Lesson6Conversation20190228010735450185838.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1992",
+            "StructName": "Lesson 7 Toy Kingdom"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3728",
+            "CoursewareName": "Lesson 7 Toy Kingdom",
+            "CoursewareUrl": "Lesson7ToyKingdom20190228010739840794286.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1993",
+            "StructName": "Lesson 7 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3729",
+            "CoursewareName": "Lesson 7 Conversation",
+            "CoursewareUrl": "Lesson7Conversation20190228010742590815955.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1994",
+            "StructName": "Lesson 8 People Who Help Us"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3730",
+            "CoursewareName": "Lesson 8 People Who Help Us",
+            "CoursewareUrl": "Lesson8PeopleWhoHelpUs20190228010746934530371.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1995",
+            "StructName": "Lesson 8 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3731",
+            "CoursewareName": "Lesson 8 Conversation",
+            "CoursewareUrl": "Lesson8Conversation20190228010749903287452.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1996",
+            "StructName": "Lesson 9 Clean My Body"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3732",
+            "CoursewareName": "Lesson 9 Clean My Body",
+            "CoursewareUrl": "Lesson9CleanMyBody2019022801075474706480.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1997",
+            "StructName": "Lesson 9 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3733",
+            "CoursewareName": "Lesson 9 Conversation",
+            "CoursewareUrl": "Lesson9Conversation20190228010758090844548.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1998",
+            "StructName": "Lesson 10 Furniture"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3734",
+            "CoursewareName": "Lesson 10 Furniture",
+            "CoursewareUrl": "Lesson10Furniture20190228010805231405187.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1999",
+            "StructName": "Lesson 10 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3735",
+            "CoursewareName": "Lesson 10 Conversation",
+            "CoursewareUrl": "Lesson10Conversation20190228010808075195964.mp3",
+            "CoursewarePicUrl": "_0007_HM420181220022744461654823.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "CourseID": "341",
+        "Zhang": "My first reader 小读者CD",
+        "JieAndFile": [
+        {
+            "StructID": "1979",
+            "StructName": "1、Going Shopping"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3736",
+            "CoursewareName": "1、Going Shopping",
+            "CoursewareUrl": "1、GoingShopping20190228010836309551121.mp3",
+            "CoursewarePicUrl": "_0033_HM-小读者-0420181220022752883487957.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2000",
+            "StructName": "2、Hide and Seek"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3737",
+            "CoursewareName": "2、Hide and Seek",
+            "CoursewareUrl": "2、HideandSeek20190228010840356415376.mp3",
+            "CoursewarePicUrl": "_0033_HM-小读者-0420181220022752883487957.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2001",
+            "StructName": "3、The muffin man"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3738",
+            "CoursewareName": "3、The muffin man",
+            "CoursewareUrl": "3、Themuffinman20190228010843825151669.mp3",
+            "CoursewarePicUrl": "_0033_HM-小读者-0420181220022752883487957.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2002",
+            "StructName": "4、Apple song"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3739",
+            "CoursewareName": "4、Apple song",
+            "CoursewareUrl": "4、Applesong20190228010848434550528.mp3",
+            "CoursewarePicUrl": "_0033_HM-小读者-0420181220022752883487957.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2003",
+            "StructName": "5、Ladybird"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3740",
+            "CoursewareName": "5、Ladybird",
+            "CoursewareUrl": "5、Ladybird20190228010852481480783.mp3",
+            "CoursewarePicUrl": "_0033_HM-小读者-0420181220022752883487957.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2004",
+            "StructName": "6、Did you ever see a lassie"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3741",
+            "CoursewareName": "6、Did you ever see a lassie",
+            "CoursewareUrl": "6、Didyoueverseealassie20190228010858012702317.mp3",
+            "CoursewarePicUrl": "_0033_HM-小读者-0420181220022752883487957.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "courseTest": false
+    }]
+}

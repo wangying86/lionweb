@@ -1,0 +1,555 @@
+{
+    "StatusCode": 200,
+    "StatusMsg": "获取成功",
+    "Result": [
+    {
+        "CourseID": "340",
+        "Zhang": "Hello Melody 教学视频",
+        "JieAndFile": [
+        {
+            "StructID": "1560",
+            "StructName": "Alphabet Rhyme"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2806",
+            "CoursewareName": "Alphabet Rhyme",
+            "CoursewareUrl": "20181204155148617855121.mp4",
+            "CoursewarePicUrl": "20181204155148617855121.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1937",
+            "StructName": "Lesson 1 Sweets"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2807",
+            "CoursewareName": "Lesson 1 Sweets",
+            "CoursewareUrl": "20181204155156758511186.mp4",
+            "CoursewarePicUrl": "20181204155156758511186.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1938",
+            "StructName": "Lesson 2 Drinks"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2808",
+            "CoursewareName": "Lesson 2 Drinks",
+            "CoursewareUrl": "20181204155201821021702.mp4",
+            "CoursewarePicUrl": "20181204155201821021702.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1939",
+            "StructName": "Lesson 3 Greeting"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2809",
+            "CoursewareName": "Lesson 3 Greeting",
+            "CoursewareUrl": "20181204155214461623681.mp4",
+            "CoursewarePicUrl": "20181204155214461623681.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1940",
+            "StructName": "Lesson 4 My Family"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2810",
+            "CoursewareName": "Lesson 4 My Family",
+            "CoursewareUrl": "20181204155221383495909.mp4",
+            "CoursewarePicUrl": "20181204155221383495909.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1941",
+            "StructName": "Lesson 5 Exercises"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2811",
+            "CoursewareName": "Lesson 5 Exercises",
+            "CoursewareUrl": "20181204155226008511126.mp4",
+            "CoursewarePicUrl": "20181204155226008511126.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1942",
+            "StructName": "Lesson 6 Up and Down"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2812",
+            "CoursewareName": "Lesson 6 Up and Down",
+            "CoursewareUrl": "20181204155230461660486.mp4",
+            "CoursewarePicUrl": "20181204155230461660486.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1943",
+            "StructName": "Lesson 7 Colors"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2813",
+            "CoursewareName": "Lesson 7 Colors",
+            "CoursewareUrl": "20181204155235321047951.mp4",
+            "CoursewarePicUrl": "20181204155235321047951.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1944",
+            "StructName": "Lesson 8 Dinner"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2814",
+            "CoursewareName": "Lesson 8 Dinner",
+            "CoursewareUrl": "2018120415524058662442.mp4",
+            "CoursewarePicUrl": "2018120415524058662442.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1945",
+            "StructName": "Lesson 9 Counting"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2815",
+            "CoursewareName": "Lesson 9 Counting",
+            "CoursewareUrl": "2018120415524502410643.mp4",
+            "CoursewarePicUrl": "2018120415524502410643.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1946",
+            "StructName": "Lesson 10 Dinner Table"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2816",
+            "CoursewareName": "Lesson 10 Dinner Table",
+            "CoursewareUrl": "20181204155249961651780.mp4",
+            "CoursewarePicUrl": "20181204155249961651780.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "CourseID": "340",
+        "Zhang": "Hello Melody 情景故事CD",
+        "JieAndFile": [
+        {
+            "StructID": "1948",
+            "StructName": "BOOK2"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3688",
+            "CoursewareName": "BOOK2",
+            "CoursewareUrl": "BOOK220190228125928372083961.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1951",
+            "StructName": "Lesson 1 Sweets "
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3689",
+            "CoursewareName": "Lesson 1 Sweets ",
+            "CoursewareUrl": "Lesson1Sweets20190228125932637669105.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1952",
+            "StructName": "Lesson 1 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3690",
+            "CoursewareName": "Lesson 1 Conversation",
+            "CoursewareUrl": "Lesson1Conversation20190228125935637713381.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1953",
+            "StructName": "Lesson 2 Drinks"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3691",
+            "CoursewareName": "Lesson 2 Drinks",
+            "CoursewareUrl": "Lesson2Drinks20190228125941528306989.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1954",
+            "StructName": "Lesson 2 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3692",
+            "CoursewareName": "Lesson 2 Conversation",
+            "CoursewareUrl": "Lesson2Conversation20190228125945247076888.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1955",
+            "StructName": "Lesson 3 Greeting"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3693",
+            "CoursewareName": "Lesson 3 Greeting",
+            "CoursewareUrl": "Lesson3Greeting20190228125948403289663.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1956",
+            "StructName": "Lesson 3 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3694",
+            "CoursewareName": "Lesson 3 Conversation",
+            "CoursewareUrl": "Lesson3Conversation20190228125951215787723.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1957",
+            "StructName": "Lesson 4 My Family"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3695",
+            "CoursewareName": "Lesson 4 My Family",
+            "CoursewareUrl": "Lesson4MyFamily20190228125954559543713.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1958",
+            "StructName": "Lesson 4 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3696",
+            "CoursewareName": "Lesson 4 Conversation",
+            "CoursewareUrl": "Lesson4Conversation20190228125957325178741.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1959",
+            "StructName": "Lesson 5 Exercises"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3697",
+            "CoursewareName": "Lesson 5 Exercises",
+            "CoursewareUrl": "Lesson5Exercises20190228010000293934300.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1960",
+            "StructName": "Lesson 5 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3698",
+            "CoursewareName": "Lesson 5 Conversation",
+            "CoursewareUrl": "Lesson5Conversation20190228010003247052544.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1961",
+            "StructName": "Lesson 6 Up and Down"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3699",
+            "CoursewareName": "Lesson 6 Up and Down",
+            "CoursewareUrl": "Lesson6UpandDown20190228010007278299441.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1962",
+            "StructName": "Lesson 6 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3700",
+            "CoursewareName": "Lesson 6 Conversation",
+            "CoursewareUrl": "Lesson6Conversation20190228010010731432375.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1963",
+            "StructName": "Lesson 7 Colors"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3701",
+            "CoursewareName": "Lesson 7 Colors",
+            "CoursewareUrl": "Lesson7Colors20190228010014090841202.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1964",
+            "StructName": "Lesson 7 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3702",
+            "CoursewareName": "Lesson 7 Conversation",
+            "CoursewareUrl": "Lesson7Conversation20190228010021575176555.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1965",
+            "StructName": "Lesson 8 Dinner"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3703",
+            "CoursewareName": "Lesson 8 Dinner",
+            "CoursewareUrl": "Lesson8Dinner20190228010027965815853.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1966",
+            "StructName": "Lesson 8 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3704",
+            "CoursewareName": "Lesson 8 Conversation",
+            "CoursewareUrl": "Lesson8Conversation20190228010032059529662.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1967",
+            "StructName": "Lesson 9 Counting"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3705",
+            "CoursewareName": "Lesson 9 Counting",
+            "CoursewareUrl": "Lesson9Counting2019022801003687206195.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1968",
+            "StructName": "Lesson 9 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3706",
+            "CoursewareName": "Lesson 9 Conversation",
+            "CoursewareUrl": "Lesson9Conversation20190228010040215793563.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1969",
+            "StructName": "Lesson 10 Dinner Table"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3707",
+            "CoursewareName": "Lesson 10 Dinner Table",
+            "CoursewareUrl": "Lesson10DinnerTable20190228010046434545526.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1970",
+            "StructName": "Lesson 10 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3708",
+            "CoursewareName": "Lesson 10 Conversation",
+            "CoursewareUrl": "Lesson10Conversation20190228010051481416207.mp3",
+            "CoursewarePicUrl": "_0009_HM220181220022821680382198.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "CourseID": "340",
+        "Zhang": "My first reader 小读者CD",
+        "JieAndFile": [
+        {
+            "StructID": "1950",
+            "StructName": "1、Good manner"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3709",
+            "CoursewareName": "1、Good manner",
+            "CoursewareUrl": "1、Goodmanner20190228010113090805295.mp3",
+            "CoursewarePicUrl": "_0035_HM-小读者-0220181220022831102249907.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1971",
+            "StructName": "2、Black and White"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3710",
+            "CoursewareName": "2、Black and White",
+            "CoursewareUrl": "2、BlackandWhite20190228010117325152767.mp3",
+            "CoursewarePicUrl": "_0035_HM-小读者-0220181220022831102249907.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1972",
+            "StructName": "3、Ten little fingers"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3711",
+            "CoursewareName": "3、Ten little fingers",
+            "CoursewareUrl": "3、Tenlittlefingers20190228010119981425328.mp3",
+            "CoursewarePicUrl": "_0035_HM-小读者-0220181220022831102249907.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1973",
+            "StructName": "4、Head and shoulders"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3712",
+            "CoursewareName": "4、Head and shoulders",
+            "CoursewareUrl": "4、Headandshoulders20190228010122825174106.mp3",
+            "CoursewarePicUrl": "_0035_HM-小读者-0220181220022831102249907.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1974",
+            "StructName": "5、The butterfly"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3713",
+            "CoursewareName": "5、The butterfly",
+            "CoursewareUrl": "5、Thebutterfly2019022801012554395458.mp3",
+            "CoursewarePicUrl": "_0035_HM-小读者-0220181220022831102249907.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1975",
+            "StructName": "6、Where has my little dog gone"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3714",
+            "CoursewareName": "6、Where has my little dog gone",
+            "CoursewareUrl": "6、Wherehasmylittledoggone20190228010128168925424.mp3",
+            "CoursewarePicUrl": "_0035_HM-小读者-0220181220022831102249907.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "courseTest": false
+    }]
+}

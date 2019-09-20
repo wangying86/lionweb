@@ -1,0 +1,555 @@
+{
+    "StatusCode": 200,
+    "StatusMsg": "获取成功",
+    "Result": [
+    {
+        "CourseID": "342",
+        "Zhang": "Hello Melody 教学视频",
+        "JieAndFile": [
+        {
+            "StructID": "1574",
+            "StructName": "Alphabet Rhyme"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2882",
+            "CoursewareName": "Alphabet Rhyme",
+            "CoursewareUrl": "20181204160005102317931.mp4",
+            "CoursewarePicUrl": "20181204160005102317931.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1575",
+            "StructName": "Lesson 1 Seasons"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2883",
+            "CoursewareName": "Lesson 1 Seasons",
+            "CoursewareUrl": "20181204160010399167218.mp4",
+            "CoursewarePicUrl": "20181204160010399167218.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1576",
+            "StructName": "Lesson 2 In the Night"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2884",
+            "CoursewareName": "Lesson 2 In the Night",
+            "CoursewareUrl": "20181204160015242916846.mp4",
+            "CoursewarePicUrl": "20181204160015242916846.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1577",
+            "StructName": "Lesson 3 Dream World"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2885",
+            "CoursewareName": "Lesson 3 Dream World",
+            "CoursewareUrl": "20181204160020711670990.mp4",
+            "CoursewarePicUrl": "20181204160020711670990.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1578",
+            "StructName": "Lesson 4 Camping"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2886",
+            "CoursewareName": "Lesson 4 Camping",
+            "CoursewareUrl": "201812041600271334975.mp4",
+            "CoursewarePicUrl": "201812041600271334975.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1579",
+            "StructName": "Lesson 5 At the Beach"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2887",
+            "CoursewareName": "Lesson 5 At the Beach",
+            "CoursewareUrl": "20181204160040508598444.mp4",
+            "CoursewarePicUrl": "20181204160040508598444.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1580",
+            "StructName": "Lesson 6 Picnic"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2888",
+            "CoursewareName": "Lesson 6 Picnic",
+            "CoursewareUrl": "20181204160046289808585.mp4",
+            "CoursewarePicUrl": "20181204160046289808585.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1581",
+            "StructName": "Lesson 7 Sea World"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2889",
+            "CoursewareName": "Lesson 7 Sea World",
+            "CoursewareUrl": "20181204160051664737621.mp4",
+            "CoursewarePicUrl": "20181204160051664737621.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1582",
+            "StructName": "Lesson 8 Garden"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2890",
+            "CoursewareName": "Lesson 8 Garden",
+            "CoursewareUrl": "20181204160101305441801.mp4",
+            "CoursewarePicUrl": "20181204160101305441801.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1583",
+            "StructName": "Lesson 9 Barbecue"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2891",
+            "CoursewareName": "Lesson 9 Barbecue",
+            "CoursewareUrl": "20181204160106305402927.mp4",
+            "CoursewarePicUrl": "20181204160106305402927.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "1584",
+            "StructName": "Lesson 10 Music Class"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "2892",
+            "CoursewareName": "Lesson 10 Music Class",
+            "CoursewareUrl": "20181204160110867860754.mp4",
+            "CoursewarePicUrl": "20181204160110867860754.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "CourseID": "342",
+        "Zhang": "Hello Melody 情景故事CD",
+        "JieAndFile": [
+        {
+            "StructID": "2006",
+            "StructName": "BOOK6"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3742",
+            "CoursewareName": "BOOK6",
+            "CoursewareUrl": "BOOK620190228011527465780423.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2009",
+            "StructName": "Lesson 1 Seasons"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3743",
+            "CoursewareName": "Lesson 1 Seasons",
+            "CoursewareUrl": "Lesson1Seasons20190228011533403275585.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2010",
+            "StructName": "Lesson 1 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3744",
+            "CoursewareName": "Lesson 1 Conversation",
+            "CoursewareUrl": "Lesson1Conversation20190228011536043951787.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2011",
+            "StructName": "Lesson 2 In the Night"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3745",
+            "CoursewareName": "Lesson 2 In the Night",
+            "CoursewareUrl": "Lesson2IntheNight20190228011545450182242.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2012",
+            "StructName": "Lesson 2 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3746",
+            "CoursewareName": "Lesson 2 Conversation",
+            "CoursewareUrl": "Lesson2Conversation20190228011548418915801.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2013",
+            "StructName": "Lesson 3 Dream World"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3747",
+            "CoursewareName": "Lesson 3 Dream World",
+            "CoursewareUrl": "Lesson3DreamWorld2019022801155424706518.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2014",
+            "StructName": "Lesson 3 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3748",
+            "CoursewareName": "Lesson 3 Conversation",
+            "CoursewareUrl": "Lesson3Conversation2019022801155716892122.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2015",
+            "StructName": "Lesson 4 Camping"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3749",
+            "CoursewareName": "Lesson 4 Camping",
+            "CoursewareUrl": "Lesson4Camping20190228011604075152414.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2016",
+            "StructName": "Lesson 4 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3750",
+            "CoursewareName": "Lesson 4 Conversation",
+            "CoursewareUrl": "Lesson4Conversation20190228011607372078850.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2017",
+            "StructName": "Lesson 5 At the Beach"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3751",
+            "CoursewareName": "Lesson 5 At the Beach",
+            "CoursewareUrl": "Lesson5AttheBeach20190228011611575166604.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2018",
+            "StructName": "Lesson 5 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3752",
+            "CoursewareName": "Lesson 5 Conversation",
+            "CoursewareUrl": "Lesson5Conversation20190228011615309545340.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2019",
+            "StructName": "Lesson 6 Picnic"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3753",
+            "CoursewareName": "Lesson 6 Picnic",
+            "CoursewareUrl": "Lesson6Picnic20190228011623590810544.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2020",
+            "StructName": "Lesson 6 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3754",
+            "CoursewareName": "Lesson 6 Conversation",
+            "CoursewareUrl": "Lesson6Conversation20190228011626418906963.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2021",
+            "StructName": "Lesson 7 Sea World"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3755",
+            "CoursewareName": "Lesson 7 Sea World",
+            "CoursewareUrl": "Lesson7SeaWorld20190228011630809545932.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2022",
+            "StructName": "Lesson 7 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3756",
+            "CoursewareName": "Lesson 7 Conversation",
+            "CoursewareUrl": "Lesson7Conversation20190228011635950185721.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2023",
+            "StructName": "Lesson 8 Garden"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3757",
+            "CoursewareName": "Lesson 8 Garden",
+            "CoursewareUrl": "Lesson8Garden20190228011640075177725.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2024",
+            "StructName": "Lesson 8 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3758",
+            "CoursewareName": "Lesson 8 Conversation",
+            "CoursewareUrl": "Lesson8Conversation20190228011643200185304.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2025",
+            "StructName": "Lesson 9 Barbecue"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3759",
+            "CoursewareName": "Lesson 9 Barbecue",
+            "CoursewareUrl": "Lesson9Barbecue20190228011703934569271.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2026",
+            "StructName": "Lesson 9 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3760",
+            "CoursewareName": "Lesson 9 Conversation",
+            "CoursewareUrl": "Lesson9Conversation20190228011712872050708.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2027",
+            "StructName": "Lesson 10 Music Class"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3761",
+            "CoursewareName": "Lesson 10 Music Class",
+            "CoursewareUrl": "Lesson10MusicClass20190228011719575188525.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2028",
+            "StructName": "Lesson 10 Conversation"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3762",
+            "CoursewareName": "Lesson 10 Conversation",
+            "CoursewareUrl": "Lesson10Conversation2019022801172307522414.mp3",
+            "CoursewarePicUrl": "_0005_HM620181220022703211622868.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "CourseID": "342",
+        "Zhang": "My first reader 小读者CD",
+        "JieAndFile": [
+        {
+            "StructID": "2008",
+            "StructName": "1、At School"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3763",
+            "CoursewareName": "1、At School",
+            "CoursewareUrl": "1、AtSchool20190228011754153324948.mp3",
+            "CoursewarePicUrl": "_0031_HM-小读者-0620181220022715102272231.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2029",
+            "StructName": "2、Going to"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3764",
+            "CoursewareName": "2、Going to",
+            "CoursewareUrl": "2、Goingto20190228011758043932182.mp3",
+            "CoursewarePicUrl": "_0031_HM-小读者-0620181220022715102272231.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2030",
+            "StructName": "3、I have two hands"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3765",
+            "CoursewareName": "3、I have two hands",
+            "CoursewareUrl": "3、Ihavetwohands20190228011801168920761.mp3",
+            "CoursewarePicUrl": "_0031_HM-小读者-0620181220022715102272231.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2031",
+            "StructName": "4、The train"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3766",
+            "CoursewareName": "4、The train",
+            "CoursewareUrl": "4、Thetrain2019022801180432520958.mp3",
+            "CoursewarePicUrl": "_0031_HM-小读者-0620181220022715102272231.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2032",
+            "StructName": "5、Hush little baby"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3767",
+            "CoursewareName": "5、Hush little baby",
+            "CoursewareUrl": "5、Hushlittlebaby20190228011808059583794.mp3",
+            "CoursewarePicUrl": "_0031_HM-小读者-0620181220022715102272231.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        },
+        {
+            "StructID": "2033",
+            "StructName": "6、We can play on the big bass drum"
+        },
+        {
+            "StructID": "0",
+            "Status": false,
+            "FileID": "3768",
+            "CoursewareName": "6、We can play on the big bass drum",
+            "CoursewareUrl": "6、Wecanplayonthebigbassdrum20190228011812090797690.mp3",
+            "CoursewarePicUrl": "_0031_HM-小读者-0620181220022715102272231.jpg",
+            "IsBrowse": 0,
+            "IsCollection": 0
+        }]
+    },
+    {
+        "courseTest": false
+    }]
+}
