@@ -1,29 +1,4 @@
 # lionweb
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+我放了一些他现在幼儿园学英语的视频和音频资料。主要平台需要微信公众号打开太麻烦了。
+放到这里之后，想电脑打开，手机打开都可以了。
