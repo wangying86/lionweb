@@ -1,11 +1,13 @@
 <template>
     <div class="hellomelody">
-        <h1 @click="getJson">第{{$route.params.lesson}}册</h1>
+        <h3 @click="getJson">第{{$route.params.lesson}}册</h3>
         <el-collapse v-model="activeNames" @change="handleChange">
-            <div v-for='(item,index) in data'>
-                <el-collapse-item :title='item.Zhang' :name='item.Zhang'>
-                	<div v-for='(f_item,file) in item.JieAndFile'>
-                    	<div> <el-link type="info" :href='"http://elearning.shuangmeimelody.com/web/admin/UploadFiles/"+f_item.CoursewareUrl'>{{f_item.CoursewareName}}</el-link></div>
+            <div v-for='(item, index) in lesson'>
+                <el-collapse-item :title='item.name' :name='item.name'>
+                    <div v-for='(f_item,f_index) in item.lessonfile'>
+                        <div>
+                            <router-link :to="{name:'lessonvideo',params:{path:f_item.CoursewareUrl}}">{{f_item.CoursewareName}}</router-link>
+                        </div>
                     </div>
                 </el-collapse-item>
             </div>
@@ -23,7 +25,7 @@ export default {
     },
     data() {
         return {
-            data: '',
+            lesson: [],
             activeNames: ''
         }
 
@@ -34,16 +36,31 @@ export default {
     methods: {
         //获取课程数据
         getJson() {
-            // this.url = "/data/"+this.$route.params.name + this.$route.params.lesson + '.json';
             this.$axios({
-                    // url: '/lion/data/'+this.$route.params.name + this.$route.params.lesson + '.json'//发布到github需要修改的地址
-                    url: '/data/'+this.$route.params.name + this.$route.params.lesson + '.json'//发布到github需要修改的地址
+                    url: '/lion/data/'+this.$route.params.name + this.$route.params.lesson + '.json'//发布到github需要修改的地址
+                    // url: '/data/' + this.$route.params.name + this.$route.params.lesson + '.json' //本地测试地址
 
                 })
                 .then(response => {
-                    this.data = response.data.Result;
-                     console.log(this.url);
-                    // console.log(this.lesson);
+                    let data = response.data.Result;
+                    this.lesson = [];
+
+                    //遍历获取课件目录及链接地址
+                    data.forEach((d_value, d_index, d_arr) => {
+                        let jieandfile = []; //得到课件地址数组
+                        if (typeof d_value.JieAndFile != "undefined") {
+                            d_value.JieAndFile.forEach((j_value, j_index, j_arr) => {
+                                if (typeof j_value.CoursewareUrl != "undefined") {
+                                    jieandfile.push(j_value)
+                                }
+                            });
+                            this.lesson.push({ "name": d_value.Zhang, "lessonfile": jieandfile });
+                        }
+
+                        
+
+
+                    });
                 }).catch((e) => { console.log(e) })
 
         },
@@ -51,11 +68,10 @@ export default {
             // console.log(val);
         }
     },
-    watch:{
-    	// this.getJson()
-    	'$route.path':function(val, oldVal){
-    		this.getJson();
-    	}
+    watch: {
+        '$route.path': function(val, oldVal) {
+            this.getJson();
+        }
     }
 }
 </script>

@@ -9,14 +9,22 @@ export default new Router({
   base: process.env.BASE_URL,
   routes: [
     {
+      //主页
       path: '/',
       name: 'home',
       component: Home
     },
     {
+      //课程列表
       path: '/hellomelody/:name/:lesson',
       name: 'hellomelody',
       component: () => import('./views/Hellomelody.vue')
+    },
+    {
+      //视频播放
+      path:'/lessonvideo/:path',
+      name:'lessonvideo',
+      component:()=>import('./views/Video.vue')
     }
   ]
 })

@@ -39,28 +39,21 @@
     text-align: center;
 }
 
-.el-aside {
-    background-color: #D3DCE6;
-    color: #333;
-    text-align: center;
-    line-height: 200px;
-}
-
 .el-main {
     color: #333;
     text-align: center;
 }
 
-body>.el-container {
-    margin-bottom: 40px;
+.el-collapse-item__content{
+    text-align:left;
 }
 
-
-
 .router-link-active{
+    color: #333;
 text-decoration: none;
 }
 a {
+    color: #333;
 text-decoration: none;
 }
 </style>

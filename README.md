@@ -1,4 +1,9 @@
 # lionweb
+	用到的东东有：
+    "axios"
+    "element-ui"
+    "vue-axios"
+    "vue-router"
+    "vue-video-player"
 
-我放了一些他现在幼儿园学英语的视频和音频资料。主要平台需要微信公众号打开太麻烦了。
-放到这里之后，想电脑打开，手机打开都可以了。
+    实现读取json文件，生产课件列表，点击播放视频
